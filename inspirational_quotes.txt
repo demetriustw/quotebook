@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Live long and prosper - Spock
+=======
+do or do not, there is no try - Yoda
+
+It always seems impossible until its done - Nelson Mandela
+>>>>>>> personal_quotes
